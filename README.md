@@ -1,4 +1,4 @@
 # espkomunikasi
-xCommunication: arduino uno - esp8266
-ax4
+Communication: arduino uno - esp8266
+
 Create Mykey.h
